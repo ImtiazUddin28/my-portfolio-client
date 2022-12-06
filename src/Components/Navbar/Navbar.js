@@ -12,10 +12,10 @@ const Navbar = () => {
             <button className="btn m-1 w-36"><Link to='/resume'>Resume</Link></button>
             <button className="btn m-1 w-36"><Link to='/projects'>Projects</Link></button>
             <button className="btn m-1 w-36"><Link to='/blog'>Blog</Link></button>
-            <button className="btn m-1 w-36"><Link to='/testimonial'>Testimonial</Link></button>
             <button className="btn m-1 w-36"><Link to='/contact'>Contact</Link></button>
+            {/* <button className="btn m-1 w-36"><Link to='/testimonial'>Testimonial</Link></button>
             <button className="btn m-1 w-36"><Link to='/login'>Log In</Link></button>
-            <button className="btn m-1 w-36"><Link to='/signup'>Sign Up</Link></button>
+            <button className="btn m-1 w-36"><Link to='/signup'>Sign Up</Link></button> */}
             
         </div>
     );
