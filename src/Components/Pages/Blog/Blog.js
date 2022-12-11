@@ -3,7 +3,8 @@ import React from 'react';
 const Blog = () => {
     return (
         <div>
-            <h3>Blog page is running</h3>
+            
+            <h3 className='h-screen items-center justify-center text-3xl  '> coming soon</h3>
         </div>
     );
 };
